@@ -263,9 +263,7 @@ canvas{
         line-height: 43px;
     }
     .intro p{
-        line-height: 50px;
-        font-size: 30px;
-        font-weight: 100;
+        font-size: 25px;
     }
     button{
         width: 100px;
