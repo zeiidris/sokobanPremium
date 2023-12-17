@@ -279,6 +279,7 @@ canvas{
     
     canvas{
         transform: scale(0.6);
+        margin: 20px;
     }
     .winner-container .winner{
         width: 350px;
