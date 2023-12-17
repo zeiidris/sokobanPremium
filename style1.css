@@ -276,10 +276,11 @@ canvas{
         margin-bottom: -200px;
         z-index: 1;
     }
-    
+    .game{
+        margin-top: 40px;
+    }
     canvas{
         transform: scale(0.6);
-        margin: 40px;
     }
     .winner-container .winner{
         width: 350px;
